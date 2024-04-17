@@ -1,0 +1,2 @@
+# SereneStay
+Booking MERN App
