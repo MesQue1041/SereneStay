@@ -1,5 +1,7 @@
 import React from 'react';
 
-export default function LoginPage(){
+export function LoginPage(){
     return 'login form should go here';
   }
+
+export default LoginPage;
