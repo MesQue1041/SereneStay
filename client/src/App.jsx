@@ -5,7 +5,7 @@ import IndexPage from './pages/IndexPage';
 import { LoginPage } from './pages/LoginPage'; // Import LoginPage as a named export
 import { Layout } from './Layout'; // Import Layout as a named export
 import { RegisterPage } from './pages/RegisterPage'; // Import RegisterPage as a named export
-
+import axios from 'axios';
 
 function App() {
   return (
